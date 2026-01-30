@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322189281606",
+    "project_id": "dental-clinic-f32da",
+    "storage_bucket": "dental-clinic-f32da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322189281606:android:cbb6b535a26d879b7dbd47",
+        "android_client_info": {
+          "package_name": "com.example.sanfranciscodentalclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOJ4SVixXdFJjCUsrUi01ubbf9O3hiZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
